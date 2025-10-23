@@ -1,4 +1,5 @@
-# trial
-this is my first repository
+#core-java
 <br>
-author:himaja,
+This repository consists of core-java concepts
+<br>
+author:himaja
