@@ -1,3 +1,5 @@
 #core-java
 <br>
-This repository includes basic concepts in java.
+This repository consists of core-java concepts
+<br>
+author:himaja
